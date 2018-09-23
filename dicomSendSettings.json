@@ -1,0 +1,11 @@
+{
+  "dicomFilesLocation": "C:\\Users\\user\\Desktop\\dicom\\sending",
+  "dicomEditDirectory": "C:\\Users\\user\\Desktop\\dicom\\pending",
+  "targetAeTitle": "target ae title",
+  "targetIpAddress":"ip address of the target dicom server",
+  "remotePort": "port number of the target dicom server", //usually 104 or 105
+
+  "sendingAeTitle": "your sending ae title",
+  "localIp":"the ip address of the system that this application is running on",
+  "localPort": "105" //you can leave it at 105
+}
